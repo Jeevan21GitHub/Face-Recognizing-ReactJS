@@ -1,0 +1,17 @@
+.home-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.home-card{
+    padding: 100px;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    background-image:linear-gradient(to right,purple 30%,red 80%,white);
+    border-radius: 10px;
+
+}
+

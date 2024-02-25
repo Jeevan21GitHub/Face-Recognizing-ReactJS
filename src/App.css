@@ -1,0 +1,31 @@
+.appvide{
+  display: flex;
+  align-items: center;
+}
+
+.appcanvas{
+  position: absolute;
+  top: 100px
+}
+
+.myapp{
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.face-title{
+  font-size: 30px;
+  color: blue;
+}
+.not-match{
+  font-size: 15px;
+  color: red;
+}
+
+@media only screen and (max-width:600) {
+  .
+}
